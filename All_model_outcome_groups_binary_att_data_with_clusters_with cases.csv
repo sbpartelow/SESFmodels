@@ -1,0 +1,8 @@
+paperid,Outcome,Narrative,Context,scale,cluster,Number of variables,social total,eco total,Outcome_group_num,Outcome_group,I1,I2,I3,I4,I5,I6,I7,I8,I9,I10,A1,A2,A3,A4,A5,A6,A7,A8,A9,GS1,GS2,GS3,GS4,GS5,GS6,GS7,GS8,RU1,RU2,RU3,RU4,RU5,RU6,RU7,RS1,RS2,RS3,RS4,RS5,RS6,RS7,RS8,RS9,S1,S2,S3,S4,S5,S6,S7,S8,ECO1,ECO2,ECO3
+64,deforestation,A dictatorial and centralized government with the intention to maximize forest exploitation in its own benefit without bearing the costs positively affects deforestation,forest,national,2,4,4,0,neg_eco,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,point source pollutants; salmon stocks,.,pollution,,3,11,9,2,pos_eco,3,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Efficiency ,"Marcas system (RU6)  + the small community (U1,U2, U4) -> low conflicts (I6) and transaction costs -> Efficiency ",fisheries,communitz,2,6,5,1,pos_soc,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Limited number of wind cooperatives in Belgium,Limited number of wind cooperatives in Belgium due to institutional and infrastructural lock-ins in Belgium,wind,,2,6,5,1,neg_soc,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,I5,A6,A7,GS5,RS4,S4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,I4,I7,A1,A4,A6,RU6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
